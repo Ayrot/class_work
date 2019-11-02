@@ -9,6 +9,7 @@ public class Main {
         String str1 = a.nextLine();
         Character k;
         String m ;
+        // добавиил мега код!!!
         String str0 = "";
         for (int i =0 ; i<str1.length(); i++){
             k = (str1.charAt(i));
